@@ -13,5 +13,5 @@ password2.
 * Системное функциональное тестирование (санитарное,позитивное, обезьянье)
 * Нефункциональное тестирование (юзабилити, исследовательское,стрессовое, устойчивости)
 
-[чек-лист] (https://docs.google.com/spreadsheets/d/1YO9n-IXcTXYroBPua54vhSgaLr-sm4hSyevrfDk8Sr0/edit?usp=sharing) 
-[тест-кейсы] (https://docs.google.com/spreadsheets/d/169noJOdUrNk7e8k89V-E14DfPYgFC6revk9luxzdO54/edit?usp=sharing)
+1. Составить [чек-лист] (https://docs.google.com/spreadsheets/d/1YO9n-IXcTXYroBPua54vhSgaLr-sm4hSyevrfDk8Sr0/edit?usp=sharing) 
+2. Описать [тест-кейсы] (https://docs.google.com/spreadsheets/d/169noJOdUrNk7e8k89V-E14DfPYgFC6revk9luxzdO54/edit?usp=sharing)
