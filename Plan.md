@@ -44,6 +44,6 @@ password2.
 3. Allure- для написания отчетности
    
 # 2 этап
-Автоматизация. Кейсы: 
+Автоматизация. [Кейсы](https://docs.google.com/spreadsheets/d/169noJOdUrNk7e8k89V-E14DfPYgFC6revk9luxzdO54/edit?usp=sharing) 
 # 3 этап
 Отчетность 
