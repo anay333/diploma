@@ -8,7 +8,10 @@
 * * Приветственный экран
   * Main
   * News
+  * Control panel
+  * Creating news
   * Claims
+  * Creating claims
   * About
   * Love is all
 
