@@ -11,6 +11,7 @@
   * News
   * Control panel
   * Creating news
+  * Editing News
   * Claims
   * Creating claims
   * About
